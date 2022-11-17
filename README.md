@@ -1,7 +1,7 @@
 ## App name : counter_7
 
 
-# TUGAS 7
+# ⭐️ TUGAS 7 ⭐️
 
 
 ## Jelaskan apa yang dimaksud dengan stateless widget dan stateful widget dan jelaskan perbedaan dari keduanya.
@@ -36,7 +36,7 @@ const dan final merupakan jenis inisiator atau modifier dari immutable variable,
 6. Menjalankan aplikasi dengan command flutter run di terminal
 
 
-# TUGAS 8
+# ⭐️ TUGAS 8 ⭐️
 
 
 ## Jelaskan perbedaan Navigator.push dan Navigator.pushReplacement.
